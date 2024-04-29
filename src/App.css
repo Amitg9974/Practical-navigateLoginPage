@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.select{
+  padding: 10px;
+  font-size: larger;
+  cursor: pointer;
+}
